@@ -61,6 +61,13 @@ A repository for save source codes and papers of iMBank's first Project.
 ---
 
 
+# 시각화 자료
+- 작업중...
+
+
+<p align = 'center'>
+    <img src = https://github.com/user-attachments/assets/b42ee76f-c0cd-4291-b870-266b5a663885>
+</p>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
